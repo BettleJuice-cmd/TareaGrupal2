@@ -1,0 +1,14 @@
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\bin\Debug\net8.0\Problema1.exe
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\bin\Debug\net8.0\Problema1.deps.json
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\bin\Debug\net8.0\Problema1.runtimeconfig.json
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\bin\Debug\net8.0\Problema1.dll
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\bin\Debug\net8.0\Problema1.pdb
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\Problema1.AssemblyInfoInputs.cache
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\Problema1.AssemblyInfo.cs
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\Problema1.csproj.CoreCompileInputs.cache
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\Problema1.dll
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\refint\Problema1.dll
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\Problema1.pdb
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\Problema1.genruntimeconfig.cache
+C:\UAM\Semestre 2\TrabajosGitHub\Problema1\Problema1\obj\Debug\net8.0\ref\Problema1.dll
