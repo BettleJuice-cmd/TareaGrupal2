@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UAM\\Semestre 2\\TrabajosGitHub\\Problema2\\Problema2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8182C32E-195E-4A6F-92FF-3ACF812DB7B4}|Problema2\\Problema2.csproj|c:\\uam\\semestre 2\\trabajosgithub\\problema2\\problema2\\problema2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8182C32E-195E-4A6F-92FF-3ACF812DB7B4}|Problema2\\Problema2.csproj|solutionrelative:problema2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UAM\\Semestre 2\\TrabajosGitHub\\Problema2\\Problema2\\Problema2\\Program.cs",
+              "RelativeDocumentMoniker": "Problema2\\Program.cs",
+              "ToolTip": "C:\\UAM\\Semestre 2\\TrabajosGitHub\\Problema2\\Problema2\\Problema2\\Program.cs",
+              "RelativeToolTip": "Problema2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T02:26:59.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\bin\Debug\net8.0\Problema2.exe
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\bin\Debug\net8.0\Problema2.deps.json
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\bin\Debug\net8.0\Problema2.runtimeconfig.json
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\bin\Debug\net8.0\Problema2.dll
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\bin\Debug\net8.0\Problema2.pdb
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\Problema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\Problema2.AssemblyInfoInputs.cache
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\Problema2.AssemblyInfo.cs
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\Problema2.csproj.CoreCompileInputs.cache
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\Problema2.sourcelink.json
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\Problema2.dll
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\refint\Problema2.dll
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\Problema2.pdb
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\Problema2.genruntimeconfig.cache
+C:\UAM\Semestre 2\TrabajosGitHub\Problema2\Problema2\Problema2\obj\Debug\net8.0\ref\Problema2.dll
